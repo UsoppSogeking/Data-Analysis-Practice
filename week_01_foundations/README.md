@@ -32,16 +32,17 @@ O dataset será carregado via biblioteca `seaborn` e salvo localmente na pasta `
 
 ## 📁 Estrutura do projeto
 
+```text
 week_01_foundations/
 │
 ├── datasets/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 │
 ├── exercises/
-│ ├── exercise_01.ipynb
-│ ├── exercise_02.ipynb
-│ └── exercise_03.ipynb
+│   ├── exercise_01.ipynb
+│   ├── exercise_02.ipynb
+│   └── exercise_03.ipynb
 │
 └── README.md
 
